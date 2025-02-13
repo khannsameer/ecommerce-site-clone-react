@@ -7,6 +7,7 @@ import Bag from "./routes/Bag.jsx";
 import Home from "./routes/Home.jsx";
 import { Provider } from "react-redux";
 import myntraStore from "./store/index.js";
+// import App from "./routes/App.jsx";
 
 const router = createBrowserRouter([
   {
